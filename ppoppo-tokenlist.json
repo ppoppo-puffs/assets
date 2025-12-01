@@ -1,0 +1,21 @@
+{
+  "name": "ppoppo Token List",
+  "logoURI": "https://raw.githubusercontent.com/ppoppo-puffs/logo/main/logo.png",
+  "keywords": ["ppoppo", "PUFFS", "ppoppo•puffs"],
+  "timestamp": "2025-11-30T14:50:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xf43C33d4FE7C1A8154D82576eD7C05B33100bB94",
+      "symbol": "PUFFS",
+      "name": "ppoppo",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ppoppo-puffs/logo/main/logo.png"
+    }
+  ]
+}

@@ -2,9 +2,7 @@
   "name": "ppoppo•puffs Token List",
   "logoURI": "https://raw.githubusercontent.com/ppoppo-puffs/logo/main/logo.png",
   "keywords": ["ppoppo", "PUFFS", "Seasons Inc."],
-  "timestamp": "2025-01-01T00:00:00Z",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
-  "tags": {},
+  "timestamp": "2025-01-01T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -14,5 +12,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ppoppo-puffs/logo/main/logo.png"
     }
-  ]
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
 }
